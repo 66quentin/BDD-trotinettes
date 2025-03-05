@@ -1,4 +1,4 @@
-Projet réalisé par Quentin Guardia (quentin.guardia@protonmail.com)
+Projet réalisé par QG (quentin.guardia@protonmail.com)
 
 Gestion d'une base de données de trotinettes.
 
