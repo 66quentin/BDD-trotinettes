@@ -57,8 +57,8 @@ CREATE TABLE `Personne` (
 --
 
 INSERT INTO `Personne` (`Statut`, `Numero`, `Nom`, `Prenom`, `Adresse`, `Mdp`) VALUES
-('employe', 1, 'Guardia', 'Quentin', 'Bages', 'mdp'),
-('client', 2, 'Guardia2', 'Quentin2', 'Bages2', 'mdp2');
+('employe', 1, 'G', 'Q', 'Bages', 'mdp'),
+('client', 2, 'G2', 'Q2', 'Bages2', 'mdp2');
 
 -- --------------------------------------------------------
 
